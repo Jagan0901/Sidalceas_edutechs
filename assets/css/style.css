@@ -2594,5 +2594,6 @@ header {
 }
 
 #title {
-  font-size: 70px;
+  font-size: 60px;
+  word-spacing: 5px;
 }
