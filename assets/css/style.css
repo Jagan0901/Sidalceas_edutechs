@@ -1135,7 +1135,7 @@ header {
 /* Home Page Testimonials Section Style */
 
 .testimonials-section {
-  padding: 135px 0 145px;
+  padding: 0 0 145px;
 }
 .testimonials-section .heading {
   margin-bottom: 65px;
@@ -2593,8 +2593,6 @@ header {
   padding: 130px 0;
 }
 
-#title{
+#title {
   font-size: 70px;
 }
-
-
